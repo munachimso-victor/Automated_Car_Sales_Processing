@@ -4,3 +4,5 @@ Processes data from a JSON file and presents it in a PDF output
  
 &nbsp;
 #### Run the program by clicking this link!: https://AutomatedCarSalesProcessing-1.nwaiwumunachims.repl.run
+
+[![Run on Repl.it](https://repl.it/badge/github/munachimso-victor/Automated_Car_Sales_Processing)](https://repl.it/github/munachimso-victor/Automated_Car_Sales_Processing)
