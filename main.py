@@ -1,7 +1,7 @@
 from cars_functions import *
 import os
 import reports
-
+import webbrowser
 
 def main():
     """Process the JSON data and generate a full report out of it."""
@@ -23,6 +23,7 @@ def main():
     print(
         """NOTE: If the program is ran twice, close the cars.pdf file before running it the second time. Else, a permissions error would occur""")
 
+    webbrowser.open_new(filename)
 
 if __name__ == "__main__":
     main()
