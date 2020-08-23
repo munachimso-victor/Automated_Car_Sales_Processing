@@ -1,2 +1,6 @@
 # Automated_Car_Sales_Processing
-Processes data from a JSON file and presenting it in a PDF output
+Processes data from a JSON file and presents it in a PDF output
+ #### Resources: reportlab, JSON, Python, Functional Programming
+ 
+&nbsp;
+#### Run the program by clicking this link!: 
